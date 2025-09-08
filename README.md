@@ -19,11 +19,9 @@ Building web apps, automation tools, and occasionally breaking things to learn f
   `Python (discord.py) · PM2 · SQLite`  
   Automates match records, reminders, and live media lookups via TMDb/HiAnime APIs.
 
-- **MEGA Visit** — Simple gaming community site  
-  `PHP · HTML/CSS · Apache · Git`  
-  Deployed on DigitalOcean; lightweight JSON-based data handling.
 
-**Portfolio:** [austindwomoh.xyz](http://austindwomoh.xyz/) • **MEGA:** [megagh.xyz](https://megagh.xyz/) • **Bot Invite:** [Add Ouroboros](https://discord.com/oauth2/authorize?client_id=1280610867846578309)
+
+**Portfolio:** [austindwomoh.xyz](http://austindwomoh.xyz/) • **Bot Invite:** [Add Ouroboros](https://discord.com/oauth2/authorize?client_id=1280610867846578309)
 
 ---
 
@@ -52,10 +50,10 @@ Building web apps, automation tools, and occasionally breaking things to learn f
 
 ## 📊 GitHub quick stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INPHINITHY&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinDwomoh&layout=compact)
 
 
-![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=INPHINITHY&show_icons=true)
+![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AustinDwomoh&show_icons=true)
 
 <!--
 Notes for future you:
