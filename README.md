@@ -1,63 +1,108 @@
-# 👋 Hey, I’m Austin (Nana) Dwomoh
+# **Austin Nana Dwomoh**
 
-**CS + Data Analytics @ Augustana College (’28)**  
-Building web apps, automation tools, and occasionally breaking things to learn faster.
+**CS + Data Analytics @ Augustana College (’27)**  
+Building resilient software systems that don’t fall apart when real users touch them.
 
-- 🔭 **Now exploring:** Web dev with React/Next + Django, and a bit of 3D/Blender
-- ⚙️ **What I ship:** Practical features, clean commits, measurable impact
-- 📌 **Open to:** SWE / Web / Data internships & collabs
+I focus on automation, data infrastructure, and services that operate continuously.
 
 ---
 
-## 🚀 Projects (selected)
+## **What I’m doing right now**
 
-- **Aries** — Full-stack esports tournament platform *(WIP)*  
-  `Django · React · RBAC · SQLite`  
-  Built admin dashboards and JSON-driven workflows; integrating auth, events, and club mgmt.
-
-- **Ouroboros ** — Always-on Discord bot for tournament ops  
-  `Python (discord.py) · PM2 · SQLite`  
-  Automates match records, reminders, and live media lookups via TMDb/HiAnime APIs.
-
-
-
-**Portfolio:** [austindwomoh.xyz](http://austindwomoh.xyz/) • **Bot Invite:** [Add Ouroboros](https://discord.com/oauth2/authorize?client_id=1280610867846578309)
+- Shipping bots, APIs, and web systems used by actual people  
+- Turning messy real-world processes into deterministic, observable pipelines  
+- Running production deployments on DigitalOcean, PM2, and Apache2  
+- Exploring AI-assisted systems that scale beyond the demo stage
 
 ---
 
-## 🧰 Skills
+## **Projects**
 
-**Languages:** Python, Java, SQL  
-**Web:** HTML, CSS, JavaScript, React, Django, Tailwind, REST APIs  
-**Tools:** Git/GitHub, GitHub Actions (CI/CD), Apache2, cPanel, PM2, SQLite, VS Code, Photoshop  
-**Strengths:** Debugging, system setup, performance-minded refactors, getting features over the line
+### 🛰 **Aries** — *Esports Competition Platform*  
+`Django · PostgreSQL · Bootstrap · JavaScript`  
+A full-stack platform for clan-based esports tournaments. Manages roles, fixtures, and match results with backend-enforced rules, removing the chaos of Discord spreadsheets and manual coordination.
 
----
+**Live:** https://aries.austindwomoh.xyz  
+**GitHub:** https://github.com/AustinDwomoh/aries
 
-## 📈 What I care about
-- Owning deployments (CI/CD), not just writing code
-- Clear logs, useful errors, and maintainable readmes
-
----
-
-## 🤝 Let’s connect
-
-**Email:** dwomohaustin14@gmail.com  
-**LinkedIn:** [Austin Dwomoh](https://www.linkedin.com/in/austin-dwomoh/)  
-**Instagram:** [@INPHINITHY1](https://instagram.com/INPHINITHY1)  
+**Key Capabilities**
+- Domain-driven models for clans, players, and match workflows  
+- Backend-enforced permissions for admins, leaders, and players  
+- Persistent performance and tournament stats tied to real matches
 
 ---
 
-## 📊 GitHub quick stats
+### 🐍 **Ouroboros** — *Discord Tournament Automation Engine*  
+`Python (discord.py) · PM2 · SQLite/Postgres`  
+A 24/7 bot that handles tournament logistics, media lookups, and finance tracking. Designed to survive restarts, handle rate limits, and expose consistent behavior over time.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinDwomoh&layout=compact)
+**GitHub:** https://github.com/AustinDwomoh/Ouroboros  
+**Invite:** https://discordapp.com/oauth2/authorize?client_id=1280610867846578309
+
+**Capabilities**
+- Match scheduling, reminders, and leaderboards  
+- Media and data integrations via third-party APIs  
+- Modular commands that scale without core rewrites
+
+---
 
 
-![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AustinDwomoh&show_icons=true)
+### ⚖️ **Libra API** — *Automated Job Intelligence Platform*  
+`FastAPI · PostgreSQL · Pytest · CI/CD`  
+Aggregates and annotates internship and job listings with verified visa-sponsorship context. Eliminates guesswork for international applicants by surfacing credible employers backed by USCIS data.
+
+**Live:** https://libra.austindwomoh.xyz  
+**GitHub:** https://github.com/AustinDwomoh/libra
+
+**Highlights**
+- Multi-source scraping + normalization pipeline  
+- Sub-100ms API responses with caching and background workers  
+- Sponsorship scoring based on historical employer filings
+
+---
+
+## **Skills Snapshot**
+
+**Languages**  
+Python, Java, JavaScript, SQL, PHP
+
+**Backend**  
+FastAPI, Django, REST APIs, Supabase/Postgres
+
+**Frontend**  
+React, Tailwind, Bootstrap, JavaFX
+
+**Infra & DevOps**  
+DigitalOcean · Apache2 · PM2 · GitHub Actions (CI/CD) · cPanel
+
+**Strengths**
+- Debugging production failures instead of theorizing about them  
+- Schemas that prevent invalid states by design  
+- Abstractions that reduce cognitive load rather than inflate it
+
+---
+
+## **Working Principles**
+
+- If services can’t restart cleanly, the system is lying  
+- Observability > hero debugging  
+- Correctness scales further than cleverness  
+- A feature without tests is a rumor, not a capability
+
+---
+
+## **Links**
+
+**Portfolio:** https://austindwomoh.xyz  
+**LinkedIn:** https://www.linkedin.com/in/austin-dwomoh  
+**GitHub:** https://github.com/AustinDwomoh  
+**Email:** dwomohaustin14@gmail.com
+
+---
 
 <!--
-Notes for future you:
-- Pin 3–6 repos (Aries, Ouroboros, MEGA, any coursework) so they appear up top.
-- Keep READMEs short, include run steps + env vars where needed.
-- Add a /docs directory for larger projects if setup is non-trivial.
+To Future Me:
+- Keep Libra & Ouroboros pinned — they demonstrate leverage
+- Aries becomes more valuable as bracket + analytics systems mature
+- Don’t publish claims you can’t measure
 -->
