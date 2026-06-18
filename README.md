@@ -6,6 +6,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/austin-dwomoh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white)](https://austindwomoh.xyz)
+<p align="center">
+  <i>Open to Summer 2027 internships in data engineering and software development.</i><br/>
+  <a href="mailto:dwomohaustin14@gmail.com">Get in touch →</a>
+</p>
 
 ---
 
@@ -77,10 +81,7 @@ English · Akan
 
 [![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AustinDwomoh)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AustinDwomoh&theme=dark" alt="GitHub Streak" /></a>
-</p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AustinDwomoh&theme=dark" alt="GitHub Streak" /></a>
 ---
 
 ## Work Experience
@@ -91,7 +92,4 @@ English · Akan
 
 ---
 
-<p align="center">
-  <i>Open to Summer 2027 internships in data engineering and software development.</i><br/>
-  <a href="mailto:dwomohaustin14@gmail.com">Get in touch →</a>
-</p>
+
