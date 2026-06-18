@@ -1,108 +1,97 @@
-# **Austin Nana Dwomoh**
+# Hi, I'm Austin Dwomoh 👋
 
-**CS + Data Analytics @ Augustana College (’27)**  
-Building resilient software systems that don’t fall apart when real users touch them.
+**Computer Science · Business Analytics** @ Augustana College (Expected May 2027)
 
-I focus on automation, data infrastructure, and services that operate continuously.
+📍 Rock Island, IL &nbsp;|&nbsp; 📧 dwomohaustin14@gmail.com &nbsp;|&nbsp; 🌐 [austindwomoh.xyz](https://austindwomoh.xyz)
 
----
-
-## **What I’m doing right now**
-
-- Shipping bots, APIs, and web systems used by actual people  
-- Turning messy real-world processes into deterministic, observable pipelines  
-- Running production deployments on DigitalOcean, PM2, and Apache2  
-- Exploring AI-assisted systems that scale beyond the demo stage
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/austin-dwomoh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white)](https://austindwomoh.xyz)
 
 ---
 
-## **Projects**
+## About Me
 
-### 🛰 **Aries** — *Esports Competition Platform*  
-`Django · PostgreSQL · Bootstrap · JavaScript`  
-A full-stack platform for clan-based esports tournaments. Manages roles, fixtures, and match results with backend-enforced rules, removing the chaos of Discord spreadsheets and manual coordination.
+I build data pipelines, bots, and full-stack apps — usually things I actually need. My work sits at the intersection of software engineering, data engineering, and product thinking. Currently targeting **Summer 2027 data engineering & SWE internships**.
 
-**Live:** https://aries.austindwomoh.xyz  
-**GitHub:** https://github.com/AustinDwomoh/aries
-
-**Key Capabilities**
-- Domain-driven models for clans, players, and match workflows  
-- Backend-enforced permissions for admins, leaders, and players  
-- Persistent performance and tournament stats tied to real matches
+- 🏆 Hackathon winner — CCSC Midwest (Novice, 1st place) & HackAugie "Best Data Insight"
+- 🎓 Certifications: Tableau, Power BI, SQL (Advanced), Microsoft Excel, CodePath (Web Dev + Cybersecurity)
+- 🤝 Vice President, CyberAugie · Track Chair, Digital Collegium
 
 ---
 
-### 🐍 **Ouroboros** — *Discord Tournament Automation Engine*  
-`Python (discord.py) · PM2 · SQLite/Postgres`  
-A 24/7 bot that handles tournament logistics, media lookups, and finance tracking. Designed to survive restarts, handle rate limits, and expose consistent behavior over time.
+## Featured Projects
 
-**GitHub:** https://github.com/AustinDwomoh/Ouroboros  
-**Invite:** https://discordapp.com/oauth2/authorize?client_id=1280610867846578309
+### 🔍 [Libra](https://github.com/AustinDwomoh/Libra)
+*Python · Playwright · FastAPI · PostgreSQL · Groq LLM API*
 
-**Capabilities**
-- Match scheduling, reminders, and leaderboards  
-- Media and data integrations via third-party APIs  
-- Modular commands that scale without core rewrites
+Automated job-scraping pipeline that parses **1,000+ listings daily**, reducing manual job-search time by 80%.
+- Normalized raw scraped data into a structured PostgreSQL schema using Groq's LLM API for enrichment
+- Built a FastAPI REST API with sub-100ms responses, CORS support, error handling, and auto-generated docs
+- Validated scraping accuracy end-to-end with pytest
 
 ---
 
+### 🤖 [Ouroboros](https://github.com/AustinDwomoh/Ouroboros)
+*Python (discord.py) · SQLite · TMDb API · PM2 · DigitalOcean*
 
-### ⚖️ **Libra API** — *Automated Job Intelligence Platform*  
-`FastAPI · PostgreSQL · Pytest · CI/CD`  
-Aggregates and annotates internship and job listings with verified visa-sponsorship context. Eliminates guesswork for international applicants by surfacing credible employers backed by USCIS data.
-
-**Live:** https://libra.austindwomoh.xyz  
-**GitHub:** https://github.com/AustinDwomoh/libra
-
-**Highlights**
-- Multi-source scraping + normalization pipeline  
-- Sub-100ms API responses with caching and background workers  
-- Sponsorship scoring based on historical employer filings
+Discord bot serving **2,000+ users** with 24/7 uptime via PM2 on DigitalOcean.
+- Integrated TMDb API for live movie/anime lookup with automated release notifications
+- Designed a full database schema for user profiles, match records, and watchlists
+- Powers end-to-end tournament flows — registration through result reporting
 
 ---
 
-## **Skills Snapshot**
+### 📅 [FEP-Tracker](https://github.com/AustinDwomoh/FEP-Tracker)
+*Firebase · Google Calendar API · Gmail API · Cloud Functions*
 
-**Languages**  
-Python, Java, JavaScript, SQL, PHP
-
-**Backend**  
-FastAPI, Django, REST APIs, Supabase/Postgres
-
-**Frontend**  
-React, Tailwind, Bootstrap, JavaFX
-
-**Infra & DevOps**  
-DigitalOcean · Apache2 · PM2 · GitHub Actions (CI/CD) · cPanel
-
-**Strengths**
-- Debugging production failures instead of theorizing about them  
-- Schemas that prevent invalid states by design  
-- Abstractions that reduce cognitive load rather than inflate it
+Full-stack scheduling and attendance app built for Augustana's CORE department.
+- Engineered a clock-in/clock-out system backed by Firebase Realtime Database
+- Integrated Google Calendar and Gmail APIs to automate scheduling and staff communications
+- Implemented Firebase Cloud Functions to trigger automated workflows, cutting manual admin overhead
 
 ---
 
-## **Working Principles**
+## Technical Skills
 
-- If services can’t restart cleanly, the system is lying  
-- Observability > hero debugging  
-- Correctness scales further than cleverness  
-- A feature without tests is a rumor, not a capability
+**Languages**
+`Python` `JavaScript` `TypeScript` `Java` `SQL` `PHP` `C`
+
+**Frontend & UI**
+`React` `HTML/CSS` `Bootstrap` `Figma` `Adobe Suite` `Blender`
+
+**Backend & Databases**
+`FastAPI` `Django` `Node.js/Express` `PostgreSQL` `SQLite` `Firebase` `Supabase` `MongoDB` `MySQL`
+
+**Data & Analytics**
+`Tableau` `Power BI` `Pandas` `R` `Excel (Forecasting, Regression)`
+
+**DevOps & Tools**
+`Git/GitHub` `GitHub Actions (CI/CD)` `DigitalOcean` `PM2` `Linux` `Playwright` `BeautifulSoup` `cPanel`
+
+**Spoken Languages**
+English · Akan
 
 ---
 
-## **Links**
+## GitHub Stats
 
-**Portfolio:** https://austindwomoh.xyz  
-**LinkedIn:** https://www.linkedin.com/in/austin-dwomoh  
-**GitHub:** https://github.com/AustinDwomoh  
-**Email:** dwomohaustin14@gmail.com
+[![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AustinDwomoh)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AustinDwomoh&theme=dark" alt="GitHub Streak" /></a>
+</p>
 
 ---
 
-<!--
-To Future Me:
-- Keep Libra & Ouroboros pinned — they demonstrate leverage
-- Aries becomes more valuable as bracket + analytics systems mature
-- Don’t publish claims you can’t measure
--->
+## Work Experience
+
+**Full-Stack Web Developer** — WEB Guild, Augustana College *(Feb 2024 – Present)*
+- Maintain and enhance 250+ live client websites using HTML/CSS, PHP, and JavaScript via cPanel
+- Translated 60+ client requests into production-ready websites using Figma and Adobe Suite, cutting delivery time by 30%
+
+---
+
+<p align="center">
+  <i>Open to Summer 2027 internships in data engineering and software development.</i><br/>
+  <a href="mailto:dwomohaustin14@gmail.com">Get in touch →</a>
+</p>
